@@ -3,7 +3,7 @@
 
 ### Problem Statement
 
-> Whether a student should concentrate on the ACT or the SAT is one of the frequently asked questions an experienced ACT and SAT has encountered. Although colleges claim to treat both tests equally, is that really the case?
+Whether a student should concentrate on the ACT or the SAT is one of the frequently asked questions an experienced ACT and SAT has encountered. Although colleges claim to treat both tests equally, is that really the case?
 
 
 ### Background
