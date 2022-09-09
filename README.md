@@ -5,6 +5,7 @@
 
 Whether a student should concentrate on the ACT or the SAT is one of the frequently asked questions an experienced ACT and SAT has encountered. Although colleges claim to treat both tests equally, is that really the case?
 
+High school students are most concerned about their university entrance exam. They tend to rely on their advisor to choose focusing on either SAT or ACT score. In this project, the advisor studied SAT and ACT score requirements and predicted the relationship between university accept rate and test scores. Moreover, the difference in accept rate among universities was also studied.
 
 ### Background
 
